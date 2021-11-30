@@ -56,8 +56,6 @@ $ ./pr ../data/binary_web-Google.graph 16
 
 Scheduling policy and chunk size can be changed by modifying the `page_rank.cpp` file.
 
-<br/>
-
 ### Pthreads
 
 The `data` folder contains the datasets used in this project. Since, they are huge, we are submitting a compressed version of these. In order to extract a dataset, please run the following command:
