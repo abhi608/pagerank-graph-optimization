@@ -1,10 +1,3 @@
-/********************************************************************/
-/*    Pagerank project 2014 - Serial version                        */
-/*    	*based on Cleve Moler's matlab implementation               */
-/*                                                                  */
-/*    Implemented by Nikos Katirtzis (nikos912000)                  */
-/********************************************************************/
-
 /******************** Includes - Defines ****************/
 #include "pagerank_serial.h"
 #include <stdio.h>

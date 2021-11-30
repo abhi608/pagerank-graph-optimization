@@ -1,9 +1,3 @@
-/* Debugging with contracts; simulating cc0 -d
- * Enable with gcc -DDEBUG ...
- *
- * 15-122 Principles of Imperative Computation
- * Frank Pfenning
- */
 
 #include <assert.h>
 
