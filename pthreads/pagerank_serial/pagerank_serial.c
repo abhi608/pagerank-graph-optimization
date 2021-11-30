@@ -167,7 +167,7 @@ int main(int argc, char** argv)
 	// Check input arguments
 	if (argc < 5)
 	{
-		printf("Error in arguments! Three arguments required: graph filename, N, threshold and d\n");
+		printf("Error in arguments! Four arguments required: graph filename, number of vertices, threshold and d\n");
 		return 0;
 	}
 
