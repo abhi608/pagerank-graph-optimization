@@ -1,4 +1,4 @@
-# TBD
+# Graph Optimization for GAS based Parallel PageRank
 
 ## Description
 
