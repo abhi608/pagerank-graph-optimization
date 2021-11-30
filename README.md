@@ -27,15 +27,15 @@ This will create a text file called `simple_web-Google.graph`.
 
 `tools` folder contains script to convert text graphs to binary graphs which is in turn used by the PageRank program. In the `data` folder, all the graphs starting with `simple_` are the text graphs. Inorder to convert a `simple` graph to binary graph, run the command:
 ```
-$ cd tools/
+$ cd openmp/tools/
 $ make
-$ ./graphTools <simple input graph filename> <binary output graph filename>
+$ ./graphTools text2bin <simple input graph filename> <binary output graph filename>
 ```
 For example, to convert the above `simple_web-Google.graph` to binary, run the command:
 ```
-$ cd tools/
+$ cd openmp/tools/
 $ make
-$ ./graphTools ../data/simple_web-Google.graph ../data/binary_web-Google.graph
+$ ./graphTools text2bin ../data/simple_web-Google.graph ../data/binary_web-Google.graph
 ```
 This will create a binary file `binary_web-Google.graph` in the data folder
 
