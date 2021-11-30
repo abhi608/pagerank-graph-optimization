@@ -4,6 +4,9 @@
 
 An optimized version of parallel PageRank has been implemented using OpenMP and the implementation is in the folder `pagerank-openmp` Additionally, a simple unoptimed parallel version of PageRank has been implemented using Pthreads. This has been done to compare the efforts required to modify a sequential program using OpenMP and Pthreads.
 
+## Note
+Please use `crunchy1` machine and `GCC 4.8.5` for compilation and test.
+
 ## Execution Instructions
 
 ### OpenMP
