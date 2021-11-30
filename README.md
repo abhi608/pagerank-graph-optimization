@@ -57,7 +57,6 @@ $ ./pr ../data/binary_web-Google.graph 16
 Scheduling policy and chunk size can be changed by modifying the `page_rank.cpp` file.
 
 <br/>
-<br/>
 
 ### Pthreads
 
